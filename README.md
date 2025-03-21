@@ -9,7 +9,7 @@ Forecast Accuracy: Evaluate prediction vs actual sales.
 Channel & Division Revenue Breakdown.
 
 📊 Dashboard Highlights
-📌 KPIs Tracked:
+📌 KPIs:
 ✔ Net Sales (NS $)
 ✔ Gross Margin (GM%)
 ✔ Net Profit (%)
